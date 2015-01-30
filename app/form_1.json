@@ -1,0 +1,27 @@
+[
+    {
+        "name": "firstName",
+        "type": "text"
+    },
+    {
+        "name": "email",
+        "type": "email"
+    },
+    {
+        "name": "age",
+        "type": "text"
+    },
+    {
+        "name": "password",
+        "type": "password"
+    },
+    {
+        "name": "city",
+        "type": "checkbox",
+        "choices": [
+            { "name": "red" },
+            { "name": "blue" },
+            { "name": "green" }
+        ]
+    }
+]
